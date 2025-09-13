@@ -66,5 +66,12 @@ After analysing the simulated output,
 (iv)Write your inference.
 
 ## Simulation
+![WhatsApp Image 2025-09-13 at 17 36 05_60719422](https://github.com/user-attachments/assets/303013a9-8353-4327-9b5d-6e77e8c4d8c0)
+
 ## Output
+![WhatsApp Image 2025-09-13 at 17 36 06_ad6d3e81](https://github.com/user-attachments/assets/fe97244e-0403-45c3-91e1-089824e7ed57)
+![WhatsApp Image 2025-09-13 at 17 36 16_235f8529](https://github.com/user-attachments/assets/b2ed8e15-b870-4c1a-8df2-28f55b193db9)
+![WhatsApp Image 2025-09-13 at 17 36 27_3219b237](https://github.com/user-attachments/assets/78e664ca-2560-44f9-b0e8-9bb8a7db0dd5)
+
 ## Result
+Thus Design-and-Simulation-of-Full-wave-rectifier-controlled-by-a-thyristor is verified in MATLAB
